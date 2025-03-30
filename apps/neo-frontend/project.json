@@ -1,0 +1,9 @@
+{
+  "name": "neo-frontend",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/neo-frontend",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project neo-frontend --web",
+  "targets": {}
+}
